@@ -1,2 +1,2 @@
-# Dimensionality-Deduction 
+# Dimensionality-Reduction 
 ## principal-component-analysis-PCA
